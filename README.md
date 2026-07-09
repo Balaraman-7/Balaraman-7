@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Balaraman A V</h1>
+[<h1 align="center">Hi 👋, I'm Balaraman A V</h1>
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
@@ -124,3 +124,4 @@
 <p align="center">
 ⭐ Thanks for visiting my profile! Have a great day! ⭐
 </p>
+](https://www.linkedin.com/in/balaraman-a-v/)
