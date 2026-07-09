@@ -14,10 +14,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Passionate about **Full Stack Development** and **Generative AI**
-- 🌱 Currently learning **Java, DBMS, Software Engineering & AI/ML**
-- 🚀 Love building impactful software projects and exploring new technologies
+## 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion,vercel" />
+</p>
 
 ---
 
